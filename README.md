@@ -79,29 +79,6 @@ An academic project exploring AI-based authentication and verification technique
 🔹 Computer Vision  
 🔹 Data Analytics  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marwa-eng-design&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwa-eng-design&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Marwa-eng-design/Marwa-eng-design/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
