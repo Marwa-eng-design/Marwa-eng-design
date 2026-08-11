@@ -1,16 +1,15 @@
-## Hi there 👋
+Data Scientist & Analytics Engineer | Turning raw data into actionable insights through Machine Learning, AI, and interactive dashboards.
 
-<!--
-**Marwa-eng-design/Marwa-eng-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building end-to-end data solutions — from cleaning and exploring messy datasets to deploying predictive models and designing dashboards that decision-makers actually use. My toolkit spans Python, SQL, Power BI, and modern ML frameworks, and I care as much about clear storytelling with data as I do about model accuracy.
 
-Here are some ideas to get you started:
+What I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analytics & Visualization — Power BI, SQL, Excel, exploratory data analysis
+🤖 Machine Learning & AI — predictive modeling, classification, NLP fundamentals
+🐍 Python Development — Pandas, NumPy, Scikit-learn, data pipelines
+📈 Business Intelligence — translating data into insights stakeholders can act on
+
+I'm always exploring new datasets, refining my modeling skills, and looking for ways to make data more accessible and impactful.
+
+💼 LinkedIn
+https://www.linkedin.com/in/marwa-shoukat-7881a8367/
