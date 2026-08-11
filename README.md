@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Marwa Shoukat
 
-### Data Science Student | Data Analytics | Machine Learning | AI
+### Data Scientist | Data Analytics | Machine Learning | AI
 
-BS Data Science student at Air University, currently building my skills through university projects, personal projects, and hands-on practice with real datasets.
+I am currently building my skills through university projects, personal projects, and hands-on practice with real datasets.
 
 </div>
 
