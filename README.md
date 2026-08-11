@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marwa Shoukat
 
-### Data Scientist | Data Analytics | Machine Learning | AI
+### Aspiring Data Analyst | Data Science Student @ Air University | Python | SQL | Power BI | Machine Learning | Pandas | Data Visualization | Open to Internships
 
 I am currently building my skills through university projects, personal projects, and hands-on practice with real datasets.
 
